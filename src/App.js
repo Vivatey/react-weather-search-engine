@@ -5,7 +5,7 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      <Weather defaultCity="London" />
+      <Weather defaultCity="Doha" />
       <footer>
         Coded by Viv and is{" "}
         <a
