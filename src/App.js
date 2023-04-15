@@ -9,7 +9,7 @@ export default function App() {
       <footer>
         Coded by Viv and is{" "}
         <a
-          href="https://github.com/Vivatey/react-weather-project"
+          href="https://github.com/Vivatey/react-weather-search-engine"
           target="_blank"
           rel="noreferrer"
         >
